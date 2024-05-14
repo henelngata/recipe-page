@@ -27,8 +27,8 @@ This is a simple page I implemented using nextjs html and css
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/henelngata/recipe-page)
+- Live Site URL: (https://recipe-page-bay-eight.vercel.app/)
 
 ## My process
 
